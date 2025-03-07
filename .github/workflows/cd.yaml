@@ -2,7 +2,7 @@ name: CD Gitops
 
 on:
   push:
-    branches: [mani]
+    branches: [main]
 
 jobs:
   build:
